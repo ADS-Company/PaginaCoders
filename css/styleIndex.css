@@ -1,0 +1,48 @@
+
+#Carrusel{
+    display: inline-block;
+    
+}
+#anuncio{
+    margin-top: 1%;
+    background:white;
+    background-color: white;
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    text-align:justify;
+}
+#anuncio h2{
+    background: white;
+    color: #1ABC9C;
+    font-family: monospace;
+}
+#anuncio h3{
+      background: white;
+    color: #FC663D;
+      font-family: monospace;
+    
+}
+#anuncio p{
+      background: white;
+    font-family:monospace
+}
+.info{
+    background: white;
+    width: 32%;
+    height: auto;
+    display: inline-block;
+    margin-left: 15%;
+    text-align: justify;
+    margin-top: 2%;
+    
+}
+#imgin{
+    background: white;
+    float: left;
+    width: 20%;
+    height: 30%
+}
+#carrusel{
+    margin-top: 2%;
+}

@@ -1,0 +1,129 @@
+*{
+    background:#CECECE;
+}
+body{
+    background:#F2F2F2; 
+}
+#cabecera{
+    background: #34495E;
+    width:100%; 
+    height:15%;
+    margin-top:0%;
+    margin: 0%;
+    margin-left: 0%;
+    display: inline-block;
+}
+#transicion{
+    background: #34495E;
+}
+#logo{
+    width: 25%;
+    height: 85%;
+    align-content: center;
+    background:  #34495E;
+    
+}
+#menu{
+    background:#FC663D;
+    width: 100%;
+    height: 10%;
+    display: inline-block;
+}
+.opmenu{
+    color: white;
+    font-size: 125%;
+    text-decoration-color: white;
+    text-decoration: none;
+    text-decoration-line: none;
+    background-attachment: fixed;
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+.opmenu:link{
+    text-decoration: none;
+    color: white;
+}
+#btnInicio:hover{
+    background: #34495E;
+   
+}
+#btnInicio{
+    width: 19%;
+    background: #FC663D;
+    border-width:thin;
+    border-color: #34495E;
+    height: 100%;
+    margin: 0%;
+}
+#btnProyectos:hover{
+    background: #34495E;  
+}
+#btnProyectos{
+    width: 19%;
+    background: #FC663D;
+    border-width:thin;
+    border-color: #34495E;
+    height: 100%;
+    margin: 0%; 
+}
+
+#btnSomos:hover{
+    background: #34495E;  
+}
+#btnSomos{
+    width: 19%;
+    background: #FC663D;
+    border-width:thin;
+    border-color: #34495E;
+    height: 100%;
+    margin: 0%; 
+}
+
+#btnEventos:hover{
+    background: #34495E;  
+}
+#btnEventos{
+    width: 19%;
+    background: #FC663D;
+    border-width:thin;
+    border-color: #34495E;
+    height: 100%;
+    margin: 0%; 
+}
+
+#btnServicios:hover{
+    background: #34495E;  
+}
+#btnServicios{
+    width: 19%;
+    background: #FC663D;
+    border-width:thin;
+    border-color: #34495E;
+    height: 100%;
+    margin: 0%; 
+}
+#pie{
+    background: #34495E;
+    width: 100%;
+    height: 10%;
+    margin-top: 1%;
+    display: inline-block;
+}
+.icon-twitter{
+    margin-left: 40%;
+    font-size: 400%;
+    background: white;
+    margin-right: 2%;
+}
+.icon-facebook2{
+    font-size: 400%;
+     background: white;
+    margin-right: 2%;
+}
+.icon-whatsapp{
+    font-size: 400%;
+     background: white;
+    margin-right: 2%;
+}

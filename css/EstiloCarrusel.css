@@ -1,0 +1,32 @@
+#Carrusel{
+    width: 780px;
+    height: 400px;
+    overflow: hidden;
+    float:left;
+    margin-left: 20%;
+}
+#Carrusel ul{
+    display: flex;
+    padding: 0;
+    width: 780px;
+        animation: cambio 20s infinite alternate linear;
+      
+}
+#Carrusel li{
+    list-style: none;
+}
+#Carrusel img{
+    width: 780px;
+    height: 400px;
+}
+@keyframes cambio{
+    0%{ margin-left: 0;}
+    20%{ margin-left: 0;}
+    25%{margin-left: -100%}
+    45%{margin-left: -100%}
+    50%{margin-left: -200%}
+    70%{margin-left: -200%}
+    75%{margin-left: -200%}
+    100%{margin-left: -300%}
+
+}
