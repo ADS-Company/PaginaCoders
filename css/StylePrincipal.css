@@ -47,6 +47,7 @@ a:link{
 }
 #btnInicio:hover{
     background: #34495E;
+    transform:scale(1.2);
    
 }
 #btnInicio{
@@ -58,7 +59,8 @@ a:link{
     margin: 0%;
 }
 #btnProyectos:hover{
-    background: #34495E;  
+    background: #34495E;
+    transform:scale(1.2);
 }
 #btnProyectos{
     width: 19%;
@@ -70,7 +72,8 @@ a:link{
 }
 
 #btnSomos:hover{
-    background: #34495E;  
+    background: #34495E;
+    transform:scale(1.2);
 }
 #btnSomos{
     width: 19%;
@@ -82,7 +85,8 @@ a:link{
 }
 
 #btnEventos:hover{
-    background: #34495E;  
+    background: #34495E;
+    transform:scale(1.2);
 }
 #btnEventos{
     width: 19%;
@@ -94,7 +98,8 @@ a:link{
 }
 
 #btnServicios:hover{
-    background: #34495E;  
+    background: #34495E;
+    transform:scale(1.2);
 }
 #btnServicios{
     width: 19%;
