@@ -48,6 +48,7 @@ a:link{
 #btnInicio:hover{
     background: #34495E;
     transform:scale(1.2);
+    color: white;
     transition:0.3s;
    
 }
@@ -123,17 +124,38 @@ a:link{
 }
 .icon-twitter{
     margin-left: 40%;
-    font-size: 400%;
-    background: white;
+    font-size: 300%;
+    background: #34495E;
+    color: white;
     margin-right: 2%;
 }
 .icon-facebook2{
-    font-size: 400%;
-     background: white;
+    font-size: 300%;
+    color: white;
+    background: #34495E;
     margin-right: 2%;
 }
 .icon-whatsapp{
-    font-size: 400%;
-     background: white;
+    font-size: 300%;
+    color: white;
+    background: #34495E;
     margin-right: 2%;
+}
+.icon-twitter:hover{
+    background:#34495E;
+    color: #1ABC9C;
+    transition: .3s;
+    transform: scale(1.2);
+}
+.icon-facebook2:hover{
+    background:#34495E;
+    color: #1ABC9C;
+    transition: .3s;
+    transform: scale(1.0);
+}
+.icon-whatsapp:hover{
+    background:#34495E;
+    color: #1ABC9C;
+    transition: .3s;
+    transform: scale(1.0);
 }
