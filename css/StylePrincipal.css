@@ -27,6 +27,7 @@ body{
     background:#FC663D;
     width: 100%;
     height: 10%;
+    padding-left: 19%;
     display: inline-block;
 }
 .opmenu{
@@ -53,7 +54,7 @@ a:link{
    
 }
 #btnInicio{
-    width: 19%;
+    width: 10%;
     background: #FC663D;
     border-width:thin;
     border-color: #FC663D;
@@ -66,7 +67,7 @@ a:link{
     transition:0.3s;
 }
 #btnProyectos{
-    width: 19%;
+    width: 10%;
     background: #FC663D;
     border-width:thin;
     border-color: #FC663D;
@@ -80,7 +81,7 @@ a:link{
     transition:0.3s;
 }
 #btnSomos{
-    width: 19%;
+    width: 15%;
     background: #FC663D;
     border-width:thin;
     border-color: #FC663D;
@@ -94,7 +95,7 @@ a:link{
     transition:0.3s;
 }
 #btnEventos{
-    width: 19%;
+    width: 10%;
     background: #FC663D;
     border-width:thin;
     border-color: #FC663D;
@@ -108,12 +109,25 @@ a:link{
     transition:0.3s;
 }
 #btnServicios{
-    width: 19%;
+    width: 10%;
     background: #FC663D;
     border-width:thin;
     border-color: #FC663D;
     height: 100%;
     margin: 0%; 
+}
+#btnUsuarios{
+    width: 10%;
+    background: #FC663D;
+    border-width:thin;
+    border-color: #FC663D;
+    height: 100%;
+    margin: 0%; 
+}
+#btnUsuarios:hover{
+    background: #34495E;
+    transform: scale(1.2);
+    transition:0.3s;
 }
 #pie{
     background: #34495E;
@@ -125,7 +139,7 @@ a:link{
 .icon-twitter{
     margin-left: 40%;
     font-size: 300%;
-    background: #34495E;
+    background: #535e34;
     color: white;
     margin-right: 2%;
 }
